@@ -37,7 +37,7 @@ public class Tabla {
 
     void elhelyez() {
         int n = rnd.nextInt(1, 10);
-        this(n);
+        elhelyez(n);
     }
 
 }
